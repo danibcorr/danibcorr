@@ -1,7 +1,7 @@
 # Hi, I'm Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 ## 👤 About Me
-I'm an Electronic Systems Engineering student at the University of Málaga. Currently, I'm working in collaboration with the Communications Engineering department together with Ericsson. With this, I'm taking this opportunity with them to do my Bachelor's thesis, working with tools like Machine Learning and LTE.
+I'm an Electronic Systems Engineer currently working as Data Science Intern at Ericsson on Machine Learning and LTE related topics.
 
 When I have some time, I enjoy doing stuffs like:
 
