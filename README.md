@@ -1,3 +1,5 @@
+<figure><img src="./Banner.png" alt=""><figcaption></figcaption></figure>
+
 <h1 align="center">Hi, I'm Daniel 👋</h1>
 
 ## 🧑‍💻 About me
