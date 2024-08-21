@@ -4,19 +4,7 @@
 
 ## 🧑‍💻 About me
 
-Data Scientist with expertise in machine learning and advanced model development.
-
-I leverage cutting-edge technologies to transform complex data into actionable insights, driving business improvements. With experience in telecommunications and a variety of projects, I develop AI solutions that enhance performance and reliability.
-
-Some examples of my results include:
-
-● Enhanced Network Reliability: Improved performance at Ericsson by developing machine learning models with TensorFlow and Keras, automating healing processes in Self-Organizing Networks (SON) and achieving significant performance gains.
-
-● Data-Driven Decision-Making: Analyzed diverse datasets including 4G/5G network data, audio, and images using Python, Pandas, and NumPy. Created clear data visualizations and performed data processing for cleaning and manipulation, aiding stakeholders in making informed decisions.
-
-● Optimized AI Models: Conducted thorough model evaluations with Weights & Biases and MLflow, focusing on accuracy and power consumption, which accelerated the optimization process.
-
-Fluent in English, Spanish and French.
+Data Scientist with expertise in machine learning and advanced model development. I leverage cutting-edge technologies to transform complex data into actionable insights, driving business improvements. With experience in telecommunications and a variety of projects, I develop AI solutions that enhance performance and reliability. 
 
 I am passionate about working with innovative AI tools to apply them across different sectors, delivering significant value and driving success.
 
@@ -76,6 +64,8 @@ Feel free to connect with me here on LinkedIn!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" height="40" /> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="40" />        
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" />      
 </div> 
 
 ### 🎛️ Electronics 
@@ -90,9 +80,7 @@ Feel free to connect with me here on LinkedIn!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" height="40" />        
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" height="40" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" height="40" />          
 </div>
 
 ### 🧺 Others
@@ -106,6 +94,8 @@ Feel free to connect with me here on LinkedIn!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="40" />        
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" />       
 </div>
 
 <div align="center">
