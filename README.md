@@ -12,13 +12,6 @@ Feel free to connect with me here on LinkedIn!
 
 <p align="center"> <a href="https://www.linkedin.com/in/danibcorr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramikrispin" height="30" width="40" /></a></p>
 
-## 📊 GitHub stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danibcorr&theme=dark&show_icons=true&hide_border=true&count_private=false" alt="danibcorr's Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danibcorr&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="danibcorr's Top Languages">
-</div>
-
 ## 🛠️ Tools and languages used
 
 ### 🏗️ DevOps/MLOps
