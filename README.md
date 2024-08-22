@@ -15,10 +15,9 @@ Feel free to connect with me here on LinkedIn!
 ## 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danibcorr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danibcorr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=danibcorr&theme=dark&show_icons=true&hide_border=true&count_private=false" alt="danibcorr's Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danibcorr&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="danibcorr's Top Languages">
 </div>
-
 
 ## 🛠️ Tools and languages used
 
