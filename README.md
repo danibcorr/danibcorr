@@ -4,10 +4,15 @@
 
 ## 🧑‍💻 About me
 
-Data Scientist with expertise in machine learning and advanced model development. I leverage cutting-edge technologies to transform complex data into actionable insights, driving business improvements. With experience in telecommunications and a variety of projects, I develop AI solutions that enhance performance and reliability. 
+I am an Electronic Systems Engineer working primarily as a Data Scientist. I am passionate about Artificial Intelligence and its applications in enhancing human capabilities and generating new insights.
 
-I am passionate about working with innovative AI tools to apply them across different sectors, delivering significant value and driving success.
+* 🔭 I'm currently working on applying AI to real-world problems
+* 🌱 I'm curious about the latest developments in technology and how to apply them in daily life
+* 👯 I'm looking to collaborate on research or any tech projects
+* 💬 Ask me about AI, data science, or any tech-related topics - I'm always open to interesting conversations!
 
-Feel free to connect with me here on LinkedIn!
+## 📫 How to reach me
+
+Feel free to connect with me on LinkedIn
 
 <p align="center"> <a href="https://www.linkedin.com/in/danibcorr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramikrispin" height="30" width="40" /></a></p>
