@@ -1,18 +1,20 @@
-<figure><img src="./NewBanner.png" alt=""><figcaption></figcaption></figure>
+<figure>
+  <img src="./NewBanner.png" alt="Banner image">
+  <figcaption></figcaption>
+</figure>
 
-<h1 align="center">Hi, I'm Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hi, I'm Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-## 🧑‍💻 About me
+## 🧑‍💻 About Me
 
-I am an Electronic Systems Engineer working primarily as a Data Scientist. I am passionate about Artificial Intelligence and its applications in enhancing human capabilities and generating new insights.
+I'm an Electronic Systems Engineer currently working as a Data Scientist. I have a strong passion for Artificial Intelligence, especially its potential to enhance human capabilities and uncover meaningful insights.
 
-* 🔭 I'm currently working on applying AI or any technology that helps me in my day to day life.
-* 🌱 I'm curious about the latest developments in technology.
-* 👯 I'm looking to collaborate on research or any tech projects.
-* 💬 Ask me about AI, data science, or any tech-related topics - I'm always open to interesting conversations!.
+* 🔭 Currently exploring ways to apply AI and other technologies to improve everyday tasks.
+* 🌱 Always curious about emerging trends and innovations in tech.
+* 👯 Open to collaborating on research or tech projects.
 
-## 📫 How to reach me
+## 📫 Get in Touch
 
-Feel free to connect with me on LinkedIn.
-
-<p align="center"> <a href="https://www.linkedin.com/in/danibcorr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramikrispin" height="30" width="40" /></a></p>
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/danibcorr/), I'm always open to a good conversation.
