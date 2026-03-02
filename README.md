@@ -16,18 +16,15 @@
   </a>
 </p>
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm Daniel, an **Electronic Systems Engineer** turned **Data Scientist** at **Ericsson
-Cognitive Software**, where I apply **Artificial Intelligence** to solve real-world
-challenges in telecommunications. My work focuses on developing intelligent systems for
-**mobile network optimization**.
+Hi, I'm Daniel.
 
-## 🚀 What I'm Up To
+I am a Data Scientist at Ericsson, working within the Cognitive Software Engineering
+team. My role focuses on developing prototypes and improving existing products by
+applying AI to telecommunications challenges.
 
-- **Exploring** innovative applications of AI and emerging technologies to streamline
-  everyday workflows.
-- **Learning** about cutting-edge developments in machine learning, deep learning, and
-  software engineering.
-- **Collaborating** on research projects and open-source initiatives.
-- **Building** solutions that transform data into meaningful decisions.
+I am interested in the intersection of research and software engineering. I apply
+techniques like Deep Learning, Signal Processing, and Computer Vision to build tools for
+mobile network optimization, always focusing on writing clean and reliable code. I also
+contribute to internal libraries that help our R&D teams work more efficiently.
