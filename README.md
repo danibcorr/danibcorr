@@ -22,9 +22,15 @@ Hi, I'm Daniel.
 
 I am a Data Scientist at Ericsson, working within the Cognitive Software Engineering
 team. My role focuses on developing prototypes and improving existing products by
-applying AI to telecommunications challenges.
+applying AI to telecommunications.
 
 I am interested in the intersection of research and software engineering. I apply
 techniques like Deep Learning, Signal Processing, and Computer Vision to build tools for
 mobile network optimization, always focusing on writing clean and reliable code. I also
 contribute to internal libraries that help our R&D teams work more efficiently.
+
+I am fluent in English, Spanish, and French, and I’m always open to collaborating on
+interesting projects. Feel free to check out my GitHub to see what I’ve been working on
+lately.
+
+Let’s connect.
